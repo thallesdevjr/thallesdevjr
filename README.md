@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Thalles Alexandre! 👋
 
-<!--
-**thallesdevjr/thallesdevjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Profissional em transição de carreira, com experiência como Mecânico Diesel e atualmente estudando programação na Proz Educação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias que estou aprendendo
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/Linguagem_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### 📂 Projetos
+
+- 🐍 [Sistema em Python](https://github.com/thallesdevjr/exercicio.py) — Cadastro de usuários, estoque, carrinho e conta bancária
+- 🐾 [Cadastro de Pets](https://github.com/thallesdevjr/cadastroPet) — Sistema com validação de CPF e controle de serviços
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-a-85439a1a3)
+
+---
+
+> *"Cada linha de código é um passo na evolução."* 🚀
