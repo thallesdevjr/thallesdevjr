@@ -2,7 +2,7 @@
 
 ### Estudante de Desenvolvimento de Sistemas
 
-Profissional em transição de carreira, com experiência como Mecânico Diesel e atualmente estudando programação na Proz Educação.
+Em transição de carreira, com experiência como Mecânico Diesel e atualmente estudando programação na Proz Educação.
 
 ---
 
@@ -27,7 +27,8 @@ Profissional em transição de carreira, com experiência como Mecânico Diesel 
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-a-85439a1a3)
+- 📧 E-mail: contato.thallesalexandre21@email.com
 
 ---
 
-> *"Cada linha de código é um passo na evolução."* 🚀
+> *" O único modo de fazer um bom trabalho é amar o que você faz."* - Steve Jobs
