@@ -27,7 +27,7 @@ Em transição de carreira, com experiência como Mecânico Diesel e atualmente 
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-a-85439a1a3)
-- 📧 E-mail: contato.thallesalexandre21@email.com
+📧[contato.thallesalexandre21@email.com](mailto:contato.thallesalexandre21@email.com
 
 ---
 
