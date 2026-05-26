@@ -2,7 +2,7 @@
 
 ### Estudante de Desenvolvimento de Sistemas
 
-Em transição de carreira, com experiência como Mecânico Diesel e atualmente estudando programação na Proz Educação.
+Em transição de carreira, com experiência como Mecânico Diesel e atualmente estudando Desenvolvimento de Sistemas na Proz Educação e Análise e Desenvolvimento de Sistemas na Unifatecie.
 
 ---
 
@@ -24,6 +24,13 @@ Em transição de carreira, com experiência como Mecânico Diesel e atualmente 
 
 ---
 
+### 🎓 Formação
+
+- 📚 Desenvolvimento de Sistemas — Proz Educação (2025 — atualmente)
+- 🎓 Análise e Desenvolvimento de Sistemas — Unifatecie (2026 — atualmente)
+
+---
+
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-a-85439a1a3)
@@ -32,4 +39,4 @@ Em transição de carreira, com experiência como Mecânico Diesel e atualmente 
 
 ---
 
-> *" O único modo de fazer um bom trabalho é amar o que você faz."* - Steve Jobs
+> *"O único modo de fazer um bom trabalho é amar o que você faz."* — Steve Jobs
