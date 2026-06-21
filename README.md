@@ -19,8 +19,10 @@ Em transição de carreira, com experiência como Mecânico Diesel e atualmente 
 
 ### 📂 Projetos
 
-- 🐍 [Sistema em Python](https://github.com/thallesdevjr/exercicio.py) — Cadastro de usuários, estoque, carrinho e conta bancária
-- 🐾 [Cadastro de Pets](https://github.com/thallesdevjr/cadastroPet) — Sistema com validação de CPF e controle de serviços
+- [Sistema em Python](https://github.com/thallesdevjr/exercicio.py) — Cadastro de usuários, estoque, carrinho e conta bancária
+- [Cadastro de Pets](https://github.com/thallesdevjr/cadastroPet) — Sistema com validação de CPF e controle de serviços
+- [Agenda de Eventos](https://github.com/thallesdevjr/agenda-de-eventos) — App em React Native que exibe eventos da escola usando componentes reutilizáveis e props
+- [Lista de Compras](https://github.com/thallesdevjr/lista-de-compras) — App em React que gerencia itens de compra com quantidade, valor e cálculo de total automaticamente
 
 ---
 
