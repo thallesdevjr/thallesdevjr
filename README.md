@@ -23,6 +23,7 @@ Em transição de carreira, com experiência como Mecânico Diesel e atualmente 
 - [Cadastro de Pets](https://github.com/thallesdevjr/cadastroPet) — Sistema com validação de CPF e controle de serviços
 - [Agenda de Eventos](https://github.com/thallesdevjr/agenda-de-eventos) — App em React Native que exibe eventos da escola usando componentes reutilizáveis e props
 - [Lista de Compras](https://github.com/thallesdevjr/lista-de-compras) — App em React que gerencia itens de compra com quantidade, valor e cálculo de total automaticamente
+- [Gerenciador de Tarefas](https://github.com/thallesdevjr/React-Native) – App em React Native para gerenciamento de tarefas com cadastro, edição, exclusão e navegação entre telas
 
 ---
 
