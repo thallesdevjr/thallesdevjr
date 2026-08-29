@@ -15,16 +15,17 @@ Em transição de carreira, com experiência como Mecânico Diesel e atualmente 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/Linguagem_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- [DevTech | Aprendendo desenvolvimento web](https://github.com/thallesdevjr/Site01) — Projeto web desenvolvido para apresentar conteúdos e cursos relacionados ao desenvolvimento web
 ---
 
 ### 📂 Projetos
 
-- [Sistema em Python](https://github.com/thallesdevjr/exercicio.py) — Cadastro de usuários, estoque, carrinho e conta bancária
-- [Cadastro de Pets](https://github.com/thallesdevjr/cadastroPet) — Sistema com validação de CPF e controle de serviços
-- [Agenda de Eventos](https://github.com/thallesdevjr/agenda-de-eventos) — App em React Native que exibe eventos da escola usando componentes reutilizáveis e props
-- [Lista de Compras](https://github.com/thallesdevjr/lista-de-compras) — App em React que gerencia itens de compra com quantidade, valor e cálculo de total automaticamente
-- [Gerenciador de Tarefas](https://github.com/thallesdevjr/React-Native) – App em React Native para gerenciamento de tarefas com cadastro, edição, exclusão e navegação entre telas
-
+- [Sistema em Python](LINK) — Cadastro de usuários, estoque, carrinho e conta bancária
+- [Cadastro de Pets](LINK) — Sistema com validação de CPF e controle de serviços
+- [Agenda de Eventos](LINK) — App em React Native que exibe eventos de escolas usando componentes reutilizáveis e props
+- [Lista de Compras](LINK) — App em React que gerencia itens de compra com quantidade, valor e cálculo de total automaticamente
+- [Gerenciador de Tarefas](LINK) — App em React Native para gerenciamento de tarefas com cadastro, edição, exclusão e navegação entre telas
+- [DevTech | Aprendendo desenvolvimento web](https://github.com/thallesdevjr/Site01) — Projeto web desenvolvido para apresentar conteúdos e cursos relacionados ao desenvolvimento web
 ---
 
 ### 🎓 Formação
